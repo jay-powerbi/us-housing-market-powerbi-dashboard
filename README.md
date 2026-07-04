@@ -30,22 +30,6 @@ Compares housing market performance across states, including latest home values,
 
 ---
 
-## Regional Market Analysis
-
-![Regional Market Analysis](03-regional-market-analysis.jpg)
-
-Analyzes regional housing performance, geographic distribution, and local market trends.
-
----
-
-## Executive Summary & Business Recommendations
-
-![Business Summary](04-business-summary.jpg)
-
-Summarizes key findings and provides strategic recommendations based on housing market performance.
-
----
-
 # Business Problem
 
 Housing market data is often distributed across multiple sources, making it difficult for analysts, investors, and business stakeholders to identify long-term trends and compare regional market performance.
