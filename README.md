@@ -18,7 +18,8 @@ The dashboard provides an executive-level view of housing market conditions to s
 
 ![Executive Overview](01-executive-overview.jpg)
 
-Provides a high-level overview of average home value, latest market value, housing price trends, and the fastest-growing housing markets.
+- Provides a high-level overview of average home value, latest market value, housing price trends, and the fastest-growing housing markets.
+
 
 ---
 
@@ -26,7 +27,8 @@ Provides a high-level overview of average home value, latest market value, housi
 
 ![State Comparison](02-state-comparison.jpg)
 
-Compares housing market performance across states, including latest home values, growth rates, and market positioning.
+- Compares housing market performance across states, including latest home values, growth rates, and market positioning.
+
 
 ---
 
