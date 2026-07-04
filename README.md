@@ -8,7 +8,18 @@ Interactive Power BI dashboard designed to analyze U.S. housing market trends, r
 
 This dashboard helps business stakeholders monitor housing market performance across the United States by analyzing home value trends, regional growth, state comparisons, and housing market opportunities.
 
-The dashboard provides an executive-level view of housing market conditions to support strategic planning and investment decisions.
+The dashboard provides an executive-level view of housing market conditions to support strategic planning, market analysis, and data-driven investment decisions.
+
+| Item | Details |
+|------|---------|
+| **Industry** | Real Estate |
+| **Role** | Power BI Developer |
+| **Dashboard Type** | Housing Market Analytics Dashboard|
+| **Audience** | Real Estate Analysts, Investors, Business Stakeholders |
+| **Tools** | Power BI, Power Query, DAX |
+| **Data Source** | Zillow Home Value Index (ZHVI)|
+| **Skills** | Data Modeling, KPI Design, Executive Reporting, Data Visualization, Business Analysis |
+
 
 ---
 
