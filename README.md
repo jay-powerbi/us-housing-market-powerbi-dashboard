@@ -1,12 +1,14 @@
 # US Housing Market Power BI Dashboard
 
-Interactive Power BI dashboard for analyzing U.S. housing market trends, regional price changes, affordability, and market performance through interactive visualizations.
+Interactive Power BI dashboard designed to analyze U.S. housing market trends, regional price growth, and market performance using Zillow Home Value Index (ZHVI) data.
 
 ---
 
 # Project Summary
 
-This dashboard provides business stakeholders with a centralized view of the U.S. housing market, helping users monitor pricing trends, compare regional performance, and identify opportunities using historical housing data.
+This dashboard helps business stakeholders monitor housing market performance across the United States by analyzing home value trends, regional growth, state comparisons, and housing market opportunities.
+
+The dashboard provides an executive-level view of housing market conditions to support strategic planning and investment decisions.
 
 ---
 
@@ -16,23 +18,23 @@ This dashboard provides business stakeholders with a centralized view of the U.S
 
 ![Executive Overview](01-executive-overview.jpg)
 
-Provides an executive overview of housing prices, sales activity, affordability metrics, and key market indicators.
+Provides a high-level overview of average home value, latest market value, housing price trends, and the fastest-growing housing markets.
+
+---
+
+## State Comparison
+
+![State Comparison](02-state-comparison.jpg)
+
+Compares housing market performance across states, including latest home values, growth rates, and market positioning.
 
 ---
 
 ## Regional Market Analysis
 
-![Regional Market Analysis](02-regional-market-analysis.jpg)
+![Regional Market Analysis](03-regional-market-analysis.jpg)
 
-Compares housing prices and market performance across states and metropolitan areas.
-
----
-
-## Housing Trend Analysis
-
-![Housing Trend Analysis](03-housing-trend-analysis.jpg)
-
-Analyzes long-term housing price trends, market growth, and seasonal patterns.
+Analyzes regional housing performance, geographic distribution, and local market trends.
 
 ---
 
@@ -40,53 +42,53 @@ Analyzes long-term housing price trends, market growth, and seasonal patterns.
 
 ![Business Summary](04-business-summary.jpg)
 
-Summarizes key findings and provides business recommendations based on housing market trends.
+Summarizes key findings and provides strategic recommendations based on housing market performance.
 
 ---
 
 # Business Problem
 
-The housing market is influenced by multiple factors including regional demand, pricing trends, affordability, and economic conditions.
+Housing market data is often distributed across multiple sources, making it difficult for analysts, investors, and business stakeholders to identify long-term trends and compare regional market performance.
 
-Without a centralized dashboard, analysts and stakeholders often rely on multiple reports, making it difficult to identify market trends and compare regional performance efficiently.
+This dashboard consolidates market indicators into a single interactive reporting solution.
 
 ---
 
 # Business Questions
 
-- Which states have the highest average home prices?
+- Which housing markets have the highest home values?
+- Which states are experiencing the fastest growth?
 - How have housing prices changed over time?
-- Which regions are experiencing the fastest growth?
-- Where are homes becoming less affordable?
-- Which markets present potential investment opportunities?
+- Which regions present investment opportunities?
+- Which markets are outperforming the national average?
 
 ---
 
 # Key Insights
 
-- Housing prices increased steadily across most regions during the analysis period.
-- Several metropolitan areas outperformed the national average.
-- Affordability declined in high-demand markets.
-- Regional differences highlighted opportunities for investment and market expansion.
-- Market growth varied significantly across states.
+- Home values increased steadily over the analysis period.
+- Several western and coastal markets recorded the highest home values.
+- Growth rates varied significantly across states.
+- Regional comparisons revealed strong investment opportunities in multiple emerging markets.
+- Market performance differs substantially between high-value and high-growth regions.
 
 ---
 
 # Data Preparation
 
 - Cleaned and validated housing market data.
+- Removed incomplete records.
 - Standardized geographic information.
-- Built relationships between datasets.
+- Built a Power BI data model.
 - Created calculated measures using DAX.
-- Designed an interactive Power BI data model.
+- Developed interactive KPIs and trend calculations.
 
 ---
 
 # Data Source
 
-Primary Dataset
-
-- U.S. Housing Market Dataset
+- Zillow Home Value Index (ZHVI)
+- Zillow Research Housing Data
 
 ---
 
@@ -101,12 +103,13 @@ Primary Dataset
 
 # Skills Demonstrated
 
+- Dashboard Development
 - Data Modeling
-- Power Query
 - DAX
-- Dashboard Design
-- Market Analysis
-- KPI Development
+- Power Query
+- Time Series Analysis
+- Geographic Analysis
+- KPI Design
 - Executive Reporting
 - Business Storytelling
 
@@ -114,14 +117,14 @@ Primary Dataset
 
 # Business Value
 
-This dashboard enables stakeholders to monitor housing market performance, compare regional trends, evaluate affordability, and support data-driven investment and business decisions.
+This dashboard enables stakeholders to monitor housing market performance, compare regional trends, identify investment opportunities, and support strategic decision-making with data-driven insights.
 
 ---
 
 # Future Improvements
 
-- Real-time housing market updates
-- Mortgage rate integration
-- Forecasting using historical trends
-- Neighborhood-level analysis
-- Power BI Service deployment
+- Integrate mortgage interest rate data.
+- Add housing affordability analysis.
+- Implement price forecasting using historical trends.
+- Connect to live Zillow market updates.
+- Develop neighborhood-level market analysis.
